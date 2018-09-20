@@ -1,0 +1,3 @@
+D:/JetBrains/apps/CLion/Projects/OOP Lab 1/cmake-build-debug/CMakeFiles/OOP_Lab_1.dir
+D:/JetBrains/apps/CLion/Projects/OOP Lab 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/JetBrains/apps/CLion/Projects/OOP Lab 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

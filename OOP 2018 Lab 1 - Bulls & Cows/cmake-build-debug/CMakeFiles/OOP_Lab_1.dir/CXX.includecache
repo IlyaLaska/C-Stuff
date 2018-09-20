@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/JetBrains/apps/CLion/Projects/OOP Lab 1/GuessGame.cpp
+ctime
+-
+string
+-
+sstream
+-
+cmath
+-
+iomanip
+-
+iostream
+-
+string
+-
+GuessGame.h
+D:/JetBrains/apps/CLion/Projects/OOP Lab 1/GuessGame.h
+
+D:/JetBrains/apps/CLion/Projects/OOP Lab 1/GuessGame.h
+iostream
+-
+
+D:/JetBrains/apps/CLion/Projects/OOP Lab 1/main.cpp
+iostream
+-
+string
+-
+GuessGame.h
+D:/JetBrains/apps/CLion/Projects/OOP Lab 1/GuessGame.h
+
